@@ -12,6 +12,18 @@ Passionate about sports and technology, some of my hobbies are games, watching, 
 </p>
 
 <h3> Technologies </h3>
+<p>
+    
+![Static Badge](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.python.org/%2F)
+![Static Badge](https://img.shields.io/badge/Django-Django?style=for-the-badge&logo=Django&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.djangoproject.com%2F)
+![Static Badge](https://img.shields.io/badge/MySQL-MySQL?style=for-the-badge&logo=MySQL&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.mysql.com%2F)
+![Static Badge](https://img.shields.io/badge/mongodb-mongodb?style=for-the-badge&logo=mongodb&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.mongodb.com%2Fpt-br)
+![Static Badge](https://img.shields.io/badge/docker-docker?style=for-the-badge&logo=docker&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.docker.com%2F)
+![Static Badge](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=HTML5&logoColor=14E06E&color=black&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fpt-BR%2Fdocs%2FWeb%2FHTML)
+![Static Badge](https://img.shields.io/badge/CSS3-CSS3?style=for-the-badge&logo=CSS3&logoColor=14E06E&color=black&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fpt-BR%2Fdocs%2FWeb%2FCSS)
+
+</p>
+
 
 <h3 align="left">Connect with me</h3>
 
