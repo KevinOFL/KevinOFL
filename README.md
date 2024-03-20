@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/KevinOFL/KevinOFL/assets/112139576/40d3cbb4-e22a-4e77-a975-6189b26dabcd.png">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://github.com/KevinOFL/KevinOFL/assets/112139576/f2f5b6c2-1e3e-487f-8ac2-7fa86c0d8261.png">
 
 <h1>
     <a href="https://github.com/KevinOFL">
