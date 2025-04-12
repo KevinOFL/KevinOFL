@@ -6,24 +6,29 @@
     <span>Kevin da Silva</span>
 </h1>
 
-<p align="justify">Back-end Developer Python from São Paulo-SP, Brazil, graduating at Analise and Development System with Scrum Methodology. My first "Hello World" was in pre-teens when I had contact with Java, i now dediquetion in web development in Python and Django 
-<br>
-Passionate about sports and technology, some of my hobbies are games, watching, reading, and practice volleyball. <a href="https://www.instagram.com/eaeamaral/">(@eaeamaral)</a>.
-</p>
+# 👨‍💻 Back-end Developer & Data Analyst from São Paulo, Brazil
 
-<h3> Technologies </h3>
-<p>
-    
-![Static Badge](https://img.shields.io/badge/Python-Python?style=for-the-badge&logo=Python&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.python.org/%2F)
-![Static Badge](https://img.shields.io/badge/Django-Django?style=for-the-badge&logo=Django&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.djangoproject.com%2F)
-![Static Badge](https://img.shields.io/badge/MySQL-MySQL?style=for-the-badge&logo=MySQL&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.mysql.com%2F)
-![Static Badge](https://img.shields.io/badge/mongodb-mongodb?style=for-the-badge&logo=mongodb&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.mongodb.com%2Fpt-br)
-![Static Badge](https://img.shields.io/badge/docker-docker?style=for-the-badge&logo=docker&logoColor=14E06E&color=black&link=https%3A%2F%2Fwww.docker.com%2F)
-![Static Badge](https://img.shields.io/badge/HTML5-HTML5?style=for-the-badge&logo=HTML5&logoColor=14E06E&color=black&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fpt-BR%2Fdocs%2FWeb%2FHTML)
-![Static Badge](https://img.shields.io/badge/CSS3-CSS3?style=for-the-badge&logo=CSS3&logoColor=14E06E&color=black&link=https%3A%2F%2Fdeveloper.mozilla.org%2Fpt-BR%2Fdocs%2FWeb%2FCSS)
+Graduated in **Systems Analysis and Development**, currently specializing in **Machine Learning Engineering** through a postgraduate program. I have a solid background in **data analysis**, **process automation**, and **backend development**, with a strong passion for extracting insights and building smart solutions using **Python** and **cloud technologies**.
 
-</p>
+My journey in tech started in my early teens with Java, and today I focus on leveraging data to drive strategic decisions and automate processes using **machine learning**.
 
+---
+
+## 🧠 Main Skills
+
+- **Python**, **Linux/Bash**, **Pandas**, **NumPy**, **Excel**  
+- **Scikit-learn**, **Machine Learning pipelines**  
+- **MySQL**, **PostgreSQL**  
+- **Google Cloud**, **AWS**, **Terraform**  
+- **FastAPI**, **Power BI**  
+- **Data Automation and Predictive Modeling**
+
+---
+
+## 🎯 About Me
+
+Outside of work, I'm passionate about **sports**, **learning**, and **sharing knowledge**.  
+I enjoy playing **volleyball**, practicing **boxing**, going to the **gym**, and diving into **anime**, **manga**, and **books**. I'm also driven by a constant curiosity to **study** and **teach** topics related to **technology** and **personal development**.
 
 <h3 align="left">Connect with me</h3>
 
